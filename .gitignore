@@ -1,0 +1,18 @@
+# Third-party artwork and everything generated from it (see README: bring your own)
+build/source.jpg
+build/download/
+Arrakis/@Resources/Images/Wallpapers/
+Arrakis/@Resources/Images/scan*.png
+Arrakis/@Resources/Images/nostromo_scan*.png
+wallpaper-moods.png
+nostromo-preview.png
+
+# Machine-specific files
+original-wallpaper.json
+install-log.txt
+Arrakis/@Resources/mentat.txt
+Arrakis/@Resources/Scripts/*.exe
+
+# Scratch
+build/gt/
+__pycache__/
